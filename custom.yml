@@ -1,8 +1,8 @@
 feeds:
   - name: custom
     path: ../feeds_dir/custom
-  - name: helloworld
-    uri: https://github.com/fw876/helloworld.git
+  - name: v2ray
+    uri: https://github.com/kuoruan/openwrt-v2ray.git
     branch: master
 packages:
   - luci-app-ssr-plus
